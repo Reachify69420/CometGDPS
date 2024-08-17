@@ -1,0 +1,17 @@
+[
+    {
+        "role": "owner",
+        "name": "Krystal",
+        "link": "https://www.youtube.com/@krystalwashere"
+    },
+  {
+      "role": "dev",
+      "name": "Reachify",
+      "link": "https://www.youtube.com/@ReachifyGD"   
+  },
+    {
+        "role": "dev",
+        "name": "Botscoutt",
+        "link": "https://www.youtube.com/@Botscoutter"
+    }
+]
